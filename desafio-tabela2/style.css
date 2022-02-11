@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:sans-serif;
+
+}
+
+body{
+    margin-left: 10px;
+}
+h1{
+    margin: 20px 40px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: #424250d2;
+    color: white;
+}
+ th, td{
+    border: 1px solid black;
+    
+}
+th, td{
+    padding: 3px 10px;
+    text-align: center;
+    
+    
+}
+th{
+    background-color: #BB86FC;
+    color: white;
+}
+
+
+
+.cor-cabeçalho{
+    background-color: #00C4B4;
+}
